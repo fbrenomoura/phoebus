@@ -1,0 +1,17 @@
+{
+    
+    "vendas": [
+	{
+	"razaoSocial",
+	"endereco",
+	"cnpj",
+	"data",
+	"idTermonal",
+	"rotulo",
+	"cartao",
+	"valor",
+	"rodapeVenda",
+	"estornado"
+    	}
+	]
+}
